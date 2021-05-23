@@ -4,4 +4,4 @@ pandas
 xlsxwriter
 ipyleaflet
 ipywidgets 
-json
+JSON
