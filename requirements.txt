@@ -3,5 +3,4 @@ matplotlib==3.*
 pandas
 xlsxwriter
 ipyleaflet
-ipywidgets 
-JSON
+ipywidgets
